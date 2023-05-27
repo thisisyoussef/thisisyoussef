@@ -39,3 +39,5 @@ Here's a brief overview of my resume but you can check the entire resume [here](
 If you like my work, feel free to ⭐️ my repositories or give me a follow here on GitHub. Thanks for stopping by! 😄
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisyoussef)](https://github.com/anuraghazra/github-readme-stats)
