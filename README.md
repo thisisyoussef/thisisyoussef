@@ -15,8 +15,8 @@ I'm a software engineer with a strong passion for cross-platform app development
 
 Here are a couple of my projects on GitHub:
 
-- **[epayment_merchant_app](https://github.com/[yourusername]/epayment_merchant_app)**: 💳 A purchase and refund solution to connect users with businesses.
-- **[instad](https://github.com/[yourusername]/instad)**: 🏟️ A digital platform to streamline the sports venue booking process.
+- **[epayment_merchant_app](https://github.com/thisisyoussef/epayment_merchant_app)**: 💳 A purchase and refund solution to connect users with businesses.
+- **[instad](https://github.com/thisisyoussef/instad)**: 🏟️ A digital platform to streamline the sports venue booking process.
 - And many more! Feel free to explore my repositories 👀
 
 ---
