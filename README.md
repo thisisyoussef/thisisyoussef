@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Youssef! 🚀
 
-I'm a software engineer with a strong passion for coding 💻, just graduated from the University of Florida 🐊. Welcome to my GitHub profile, where you can have a sneak peek 🕵️‍♂️ at my repositories and learn more about my projects and interests in software development.
+I'm a software engineer with a strong passion for cross-platform app development 💻 and entrepreneurship that just graduated from the University of Florida 🐊. Welcome to my GitHub profile, where you can have a sneak peek 🕵️‍♂️ at my repositories and learn more about my projects and interests in software development.
 
 ## 🌟 A little about me
 
 - 🔭 I’m currently working on Stevo, a GPT powered educational platform that turns information into guided student-tailored lessons and assessments.
 - 🌱 I'm passionate about **Flutter** and **Node.js** and work to develop some cool apps using them.
-- 💬 Ask me about **Software Engineering, Entrepreneurship, and Sports**.
+- 💬 Ask me about **Flutter, Philosophy, and Soccer**.
 - 😄 Fun Fact: I fluently speak **English** (Native) and **Arabic** (Native) and can understand a bit of **French** (Beginner).
 
 ## 🚀 My Projects
