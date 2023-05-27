@@ -33,7 +33,7 @@ Here's a brief overview of my resume but you can check the entire resume [here](
 
 ## 📫 Get in touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/[youssefia]) 🌐
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/youssefia) 🌐
 - Send me an email at [youssefiahmedis@gmail.com](mailto:youssefiahmedis@gmail.com) 📧
 
 If you like my work, feel free to ⭐️ my repositories or give me a follow here on GitHub. Thanks for stopping by! 😄
