@@ -23,7 +23,7 @@ Here are a couple of my projects on GitHub:
 
 ## 📜 My Resume
 
-Here's a brief overview of my resume but you can check the entire resume [here]([Resume_Link](https://drive.google.com/file/d/1G8qfxfI_SZZAmpFDREDlifgr1jEaZL1o/view?usp=sharing))
+Here's a brief overview of my resume but you can check the entire resume [here]([[Resume_Link])
 
 - 🎓 _University of Florida -_ Bachelor of Science in Computer Science (Aug 2019 - May 2023)
 - 💼 Work experience: Dream Team Engineering, University of Florida Software Engineering Club (MERN Stack), Instad (Flutter, Dart, Firebase), and StrykePay (Flutter and Dart)
