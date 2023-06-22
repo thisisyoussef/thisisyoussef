@@ -40,4 +40,5 @@ If you like my work, feel free to ⭐️ my repositories or give me a follow her
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisyoussef)](https://github.com/anuraghazra/github-readme-stats)
+
+[//]: <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisyoussef)](https://github.com/anuraghazra/github-readme-stats)>
