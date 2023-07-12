@@ -8,7 +8,6 @@ I'm a software engineer with a strong passion for cross-platform app development
 
 - 🔭 I’m currently working on Stevo, a GPT powered educational platform that turns information into guided student-tailored lessons and assessments.
 - 🌱 I'm passionate about **Flutter** and **Node.js** and work to develop some cool apps using them.
-- 💬 Ask me about **Flutter, Philosophy, and Soccer**.
 - 😄 Fun Fact: I fluently speak **English** (Native) and **Arabic** (Native) and can understand a bit of **French** (Beginner).
 
 ## 🚀 My Projects
