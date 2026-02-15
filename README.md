@@ -1,43 +1,38 @@
----
+# Hey, I'm Youssef 👋
 
-# 👋 Hi, I'm Youssef! 🚀
+**Software engineer who builds things people actually use.** I've shipped production apps across mobile (Flutter), web (React/TypeScript), and backend (Node.js, Python/FastAPI) — from event management platforms serving real communities to AI-powered procurement tools.
 
-I'm a software engineer with a strong passion for cross-platform app development 💻 and entrepreneurship that just graduated from the University of Florida 🐊. Welcome to my GitHub profile, where you can have a sneak peek 🕵️‍♂️ at my repositories and learn more about my projects and interests in software development.
-
-## 🌟 A little about me
-
-- 🔭 I’m currently working on Stevo, a GPT powered educational platform that turns information into guided student-tailored lessons and assessments.
-- 🌱 I'm passionate about **Flutter** and **Node.js** and work to develop some cool apps using them.
-- 😄 Fun Fact: I fluently speak **English** (Native) and **Arabic** (Native) and can understand a bit of **French** (Beginner).
-
-## 🚀 My Projects
-
-Here are a couple of my projects on GitHub:
-
-- **[epayment_merchant_app](https://github.com/thisisyoussef/epayment_merchant_app)**: 💳 A purchase and refund solution to connect users with businesses.
-- **[instad](https://github.com/thisisyoussef/instad)**: 🏟️ A digital platform to streamline the sports venue booking process.
-- And many more! Feel free to explore my repositories 👀
+I care about clean architecture, great UX, and moving fast without breaking things.
 
 ---
 
-## 📜 My Resume
+### What I'm working on now
 
-Here's a brief overview of my resume but you can check the entire resume [here](https://drive.google.com/file/d/1reank_Ov-fMbRuet-5TB_nBPwSPWEkzr/view?usp=sharing)
+- **[Tamkin](https://github.com/thisisyoussef/procurement-ai)** — AI-powered procurement agent for small businesses. Multi-agent pipeline (LangGraph + Claude) that discovers, verifies, and compares suppliers automatically.
+- **[UMMA Stewards](https://github.com/thisisyoussef/event-scribe-ai-assist)** — Full-stack event management platform with AI-assisted event creation, volunteer tracking, and analytics. Built with React/TypeScript + Supabase. In production use.
 
-- 🎓 _University of Florida -_ Bachelor of Science in Computer Science (Aug 2019 - May 2023)
-- 💼 Work experience: Dream Team Engineering, University of Florida Software Engineering Club (MERN Stack), Instad (Flutter, Dart, Firebase), and StrykePay (Flutter and Dart)
-- 🏆 Certifications: The Complete Node.js Developer Course and Flutter Development Bootcamp with Dart
+### Featured projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **[Tamkin](https://github.com/thisisyoussef/procurement-ai)** | AI procurement agent — finds & vets suppliers | Python, FastAPI, LangGraph, Claude API, Next.js |
+| **[UMMA Stewards](https://github.com/thisisyoussef/event-scribe-ai-assist)** | Community event management platform (in production) | TypeScript, React, Supabase, Tailwind, shadcn/ui |
+| **[Stevo](https://github.com/thisisyoussef/stevo_flutter)** | GPT-powered adaptive learning platform | Flutter, Dart, OpenAI API |
+| **[Sawa Threads](https://github.com/thisisyoussef/sawa)** | Custom apparel e-commerce app | Flutter 3, Dart, Clean Architecture, Supabase |
+| **[Instad](https://github.com/thisisyoussef/instad)** | Sports venue discovery & booking (3-app ecosystem) | Flutter, Dart, Google Maps API, Firebase |
+
+### Tech I reach for
+
+**Languages:** TypeScript, Dart, Python, JavaScript, C++, Java, SQL
+**Frontend:** React, Next.js, Flutter, Tailwind CSS, shadcn/ui
+**Backend:** Node.js, FastAPI, Express, Firebase, Supabase
+**AI/ML:** LangGraph, Anthropic Claude, OpenAI, RAG pipelines
+**Infrastructure:** PostgreSQL, pgvector, Docker, Netlify, Vercel
 
 ---
 
-## 📫 Get in touch
+### Quick stats
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/youssefia) 🌐
-- Send me an email at [youssefiahmedis@gmail.com](mailto:youssefiahmedis@gmail.com) 📧
-
-If you like my work, feel free to ⭐️ my repositories or give me a follow here on GitHub. Thanks for stopping by! 😄
-
----
-
-
-[//]: <[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisyoussef)](https://github.com/anuraghazra/github-readme-stats)>
+- 🎓 B.S. Computer Science — University of Florida '23
+- 🌍 Fluent in English & Arabic
+- 🔗 [LinkedIn](https://www.linkedin.com/in/youssefia) · [Email](mailto:youssefiahmedis@gmail.com)
