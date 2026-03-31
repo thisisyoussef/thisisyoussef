@@ -51,10 +51,10 @@ Supporting thesis:
 Lead with projects where AI is central to the product:
 
 - Procurement AI
-- UMMA Stewards
 - LegacyLens
 - CollabBoard
 - Shipyard
+- Exquizite
 
 ### 2. Production product engineering
 
@@ -88,11 +88,11 @@ These are the strongest projects for an AI SWE Specialist narrative.
 | Project | Why it belongs in the profile | Best signal |
 | --- | --- | --- |
 | [Procurement AI](https://github.com/thisisyoussef/procurement-ai) | Best current AI-systems project | 5-agent LangGraph pipeline, model routing, supplier discovery, verification, comparison, outreach |
-| [UMMA Stewards](https://github.com/thisisyoussef/event-scribe-ai-assist) | Best production AI product signal | In production, OpenAI-assisted event creation, volunteer management, analytics |
 | [CollabBoard](https://github.com/thisisyoussef/collab-board) | Best real-time systems signal | 664 tests, sub-100ms sync, 60 FPS canvas, AI command center, LangSmith tracing |
 | [LegacyLens](https://github.com/thisisyoussef/legacylens) | Best RAG + eval signal | Production-focused RAG, FastAPI, LangSmith, Railway/Vercel deploys, evaluation scaffolding |
 | [Shipyard](https://github.com/thisisyoussef/shipyard) | Best agent-runtime signal | Persistent session model, graph runtime, typed tool layer, browser workbench, and long-run mission control |
-| [PLCProgrammingLanguage](https://github.com/thisisyoussef/PLCProgrammingLanguage) | Best deep CS signal | Full compiler pipeline from lexer through codegen and bytecode compilation |
+| [Exquizite](https://github.com/thisisyoussef/exquizite) | Best async document-intelligence signal | Document parsing, Bull/Redis processing, real-time quiz sessions, and product-grade backend flows |
+| [MemoryManager](https://github.com/thisisyoussef/MemoryManager) | Best deep systems signal | Custom allocator, best-fit and worst-fit strategies, hole coalescing, and `sbrk()` allocation |
 
 ## Secondary Projects Worth Mentioning
 
@@ -101,10 +101,10 @@ These are strong supporting projects but should not crowd the top of the README.
 | Project | Signal |
 | --- | --- |
 | [Instad](https://github.com/thisisyoussef/instad) | 3-app Flutter ecosystem with Google Maps and Firebase |
-| [Exquizite](https://github.com/thisisyoussef/exquizite) | Document-to-quiz generation, Bull + Redis async processing, Socket.IO sessions |
-| [MemoryManager](https://github.com/thisisyoussef/MemoryManager) | Custom allocator with best-fit and worst-fit strategies plus `sbrk()` usage |
+| [UMMA Stewards](https://github.com/thisisyoussef/event-scribe-ai-assist) | Production product signal with OpenAI-assisted event creation and volunteer workflows |
 | [PocketPay](https://github.com/thisisyoussef/pocketpay) | Payments and dual merchant/user backend flow |
 | [kafka-tutorial](https://github.com/thisisyoussef/kafka-tutorial) | Event-driven and Kafka pipeline foundations |
+| [PLCProgrammingLanguage](https://github.com/thisisyoussef/PLCProgrammingLanguage) | Traditional CS/compiler depth if a role values language tooling |
 | [Stevo](https://github.com/thisisyoussef/stevo_flutter) | AI-assisted adaptive learning and Flutter product breadth |
 
 ## Recommended README Structure
@@ -175,17 +175,17 @@ Keep this compact:
 If the pinned set is updated later, this is the best AI SWE Specialist order:
 
 1. Procurement AI
-2. UMMA Stewards
+2. Shipyard
 3. CollabBoard
 4. LegacyLens
-5. Shipyard
-6. PLCProgrammingLanguage
+5. Exquizite
+6. MemoryManager
 
 Alternate swaps:
 
 - Use Instad if mobile breadth is strategically important for the target role.
-- Use MemoryManager if the target role values systems depth more than agent-runtime product work.
-- Use Exquizite if the target role is especially interested in document AI and async processing.
+- Use UMMA Stewards if you want an extra production-product signal on the page.
+- Use PLCProgrammingLanguage if the target role values classical compiler depth more than systems programming.
 
 ## Public Narrative To Lean Into
 
@@ -210,11 +210,11 @@ These are the highest-value next steps after the README rewrite:
 
 1. Update the pinned repo set in the GitHub UI to:
    - Procurement AI
-   - UMMA Stewards
+   - Shipyard
    - CollabBoard
    - LegacyLens
-   - Shipyard
-   - PLCProgrammingLanguage
+   - Exquizite
+   - MemoryManager
 
    Note: GitHub currently exposes repo pinning through the web UI, but not through the public API surface available here.
 
@@ -234,5 +234,5 @@ This plan was grounded in:
 - the live profile repo,
 - GitHub repo metadata for `thisisyoussef`,
 - local project docs for Procurement AI, Shipyard, LegacyLens, CollabBoard, MemoryManager,
-- the public README for UMMA Stewards,
+- the public README for Exquizite and UMMA Stewards,
 - current pinned repository state.
