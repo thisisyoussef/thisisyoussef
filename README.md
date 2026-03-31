@@ -7,7 +7,7 @@ I build AI systems that do real work: multi-agent pipelines, evaluation-aware re
 ## Current focus
 
 - [Procurement AI](https://github.com/thisisyoussef/procurement-ai) - 5-agent sourcing platform built with FastAPI, LangGraph, and cost-aware Claude routing for supplier discovery, verification, comparison, and outreach.
-- [Kaldoon](https://github.com/thisisyoussef/kaldoon) - fintech workflow for founders that turns connected financial data into 13-week cash visibility.
+- [Shipyard](https://github.com/thisisyoussef/shipyard) - coding-agent application with a persistent session model, explicit graph runtime, target-manager workflow, browser workbench, and long-run mission control.
 - [LegacyLens](https://github.com/thisisyoussef/legacylens) - production-focused RAG system for legacy Fortran and LAPACK code intelligence with evaluation and deployment scaffolding.
 
 ## Selected work
@@ -18,7 +18,7 @@ I build AI systems that do real work: multi-agent pipelines, evaluation-aware re
 | [UMMA Stewards](https://github.com/thisisyoussef/event-scribe-ai-assist) | Community event platform in production with OpenAI-assisted event creation, volunteer operations, analytics, and Supabase-backed workflows | Shows shipped AI features inside a real product used by real people |
 | [CollabBoard](https://github.com/thisisyoussef/collab-board) | Real-time collaborative whiteboard with AI board manipulation, Socket.IO sync, Firebase persistence, and LangSmith tracing | Demonstrates strong frontend systems work: 664 tests, sub-100ms sync, and 60 FPS canvas performance |
 | [LegacyLens](https://github.com/thisisyoussef/legacylens) | RAG workspace for scientific code intelligence with FastAPI, LangSmith middleware, eval scaffolding, and Railway/Vercel deployment | Strong proof of retrieval, evaluation discipline, and production-minded AI engineering |
-| [Kaldoon](https://github.com/thisisyoussef/kaldoon) | Financial awareness system for founders built with Next.js, Prisma, PostgreSQL, and Supabase | Adds fintech and product depth beyond pure AI demos |
+| [Shipyard](https://github.com/thisisyoussef/shipyard) | Coding-agent application with a persistent session model, typed tool layer, browser workbench, planner-backed execution flow, and long-run mission control | Relevant to AI SWE roles because it shows agent runtime design, tool orchestration, durable state, and operator-facing product thinking |
 | [PLCProgrammingLanguage](https://github.com/thisisyoussef/PLCProgrammingLanguage) | Full compiler pipeline from lexer and parser through AST, type checking, code generation, and in-memory Java bytecode compilation | Clear signal that I have real CS depth, not just application-layer experience |
 
 ## What I bring

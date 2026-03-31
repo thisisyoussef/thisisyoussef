@@ -54,7 +54,7 @@ Lead with projects where AI is central to the product:
 - UMMA Stewards
 - LegacyLens
 - CollabBoard
-- Stevo
+- Shipyard
 
 ### 2. Production product engineering
 
@@ -91,7 +91,7 @@ These are the strongest projects for an AI SWE Specialist narrative.
 | [UMMA Stewards](https://github.com/thisisyoussef/event-scribe-ai-assist) | Best production AI product signal | In production, OpenAI-assisted event creation, volunteer management, analytics |
 | [CollabBoard](https://github.com/thisisyoussef/collab-board) | Best real-time systems signal | 664 tests, sub-100ms sync, 60 FPS canvas, AI command center, LangSmith tracing |
 | [LegacyLens](https://github.com/thisisyoussef/legacylens) | Best RAG + eval signal | Production-focused RAG, FastAPI, LangSmith, Railway/Vercel deploys, evaluation scaffolding |
-| [Kaldoon](https://github.com/thisisyoussef/kaldoon) | Best fintech product signal | 13-week cash visibility, founder workflow, Plaid-backed data flow, modern Next.js stack |
+| [Shipyard](https://github.com/thisisyoussef/shipyard) | Best agent-runtime signal | Persistent session model, graph runtime, typed tool layer, browser workbench, and long-run mission control |
 | [PLCProgrammingLanguage](https://github.com/thisisyoussef/PLCProgrammingLanguage) | Best deep CS signal | Full compiler pipeline from lexer through codegen and bytecode compilation |
 
 ## Secondary Projects Worth Mentioning
@@ -128,7 +128,7 @@ The summary should answer:
 Keep this short and current:
 
 - Procurement AI
-- Kaldoon
+- Shipyard
 - LegacyLens
 
 This gives the profile a "building now" feel instead of reading like a static archive.
@@ -178,13 +178,13 @@ If the pinned set is updated later, this is the best AI SWE Specialist order:
 2. UMMA Stewards
 3. CollabBoard
 4. LegacyLens
-5. Kaldoon
+5. Shipyard
 6. PLCProgrammingLanguage
 
 Alternate swaps:
 
 - Use Instad if mobile breadth is strategically important for the target role.
-- Use MemoryManager if the target role values systems depth more than fintech.
+- Use MemoryManager if the target role values systems depth more than agent-runtime product work.
 - Use Exquizite if the target role is especially interested in document AI and async processing.
 
 ## Public Narrative To Lean Into
@@ -206,17 +206,22 @@ Themes to avoid:
 
 ## Gaps To Clean Up Next
 
-These are not required for the README rewrite, but they would improve the public profile further:
+These are the highest-value next steps after the README rewrite:
 
-1. Improve repo descriptions for projects that are currently blank or too generic.
-   - `collab-board`
-   - `legacylens`
-   - `gather`
+1. Update the pinned repo set in the GitHub UI to:
+   - Procurement AI
+   - UMMA Stewards
+   - CollabBoard
+   - LegacyLens
+   - Shipyard
+   - PLCProgrammingLanguage
+
+   Note: GitHub currently exposes repo pinning through the web UI, but not through the public API surface available here.
 
 2. Add or verify homepage/demo links where live apps exist.
-   - `kaldoon`
    - `procurement-ai`
    - `legacylens`
+   - `shipyard`
 
 3. Add one screenshot or architecture image to the strongest flagship repos.
 
@@ -228,6 +233,6 @@ This plan was grounded in:
 
 - the live profile repo,
 - GitHub repo metadata for `thisisyoussef`,
-- local project docs for Procurement AI, Kaldoon, LegacyLens, CollabBoard, MemoryManager,
+- local project docs for Procurement AI, Shipyard, LegacyLens, CollabBoard, MemoryManager,
 - the public README for UMMA Stewards,
 - current pinned repository state.
